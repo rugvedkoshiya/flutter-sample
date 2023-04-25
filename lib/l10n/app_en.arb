@@ -1,0 +1,10 @@
+{
+  "en": "English",
+  "gu": "ગુજરાતી",
+  "appName": "App Name",
+  "darkMode": "Dark Mode",
+  "languages": "Languages",
+  "noInternet": "No Internet",
+  "retry": "Retry",
+  "noInternetMsg": "Please check your internet connection"
+}
