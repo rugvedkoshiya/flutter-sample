@@ -8,9 +8,6 @@ version: 1.0.0+1
 environment:
     sdk: ">=2.19.6 <3.0.0"
 
-# flutter pub upgrade --major-versions
-# flutter pub outdated
-
 dependencies:
     flutter:
         sdk: flutter
